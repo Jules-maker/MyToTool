@@ -1,7 +1,7 @@
 import logo from './images/logo-cropped.png';
-import './App.css';
+import './App.scss';
 
-// import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
